@@ -1,1 +1,2 @@
-{"numOfImages": 30}
+{"numOfImages": {"main": 30, "christmas": 14},
+ "currentTheme": "christmas"}
